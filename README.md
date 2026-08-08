@@ -41,12 +41,9 @@ The current vehicle location can also be opened directly in **Google Maps** usin
 ### Software & Libraries
 
 * Arduino IDE
-* C/C++
 * TinyGPS++ Library
 * SoftwareSerial Library
 * ESP8266WiFi Library
-* HTML
-* CSS
 * Google Maps
 
 ## 🔌 GPS Connection
